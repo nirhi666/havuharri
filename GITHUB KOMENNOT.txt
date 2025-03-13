@@ -1,0 +1,3 @@
+git add .
+git commit -m "Päivitetty jotain"
+git push origin main
